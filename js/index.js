@@ -1,7 +1,7 @@
 var data = [
   // { "name" : "Korean", "parent":"null", "value":"null"},
   { "name" : "Berries & Fruiting Bushes", "parent":"Korean", "value":"null", "image":"#i6"},
-    { "name" : "Chokeberries", "parent":"Berries & Fruiting Bushes", "value":28, "image":"#i1" },
+    { "name" : "Chokeberries", "parent":"Berries & Fruiting Bushes", "value":28, "image":"#i5" },
     { "name" : "Blackberries", "parent":"Berries & Fruiting Bushes", "value":4, "image":"#i2" },
     { "name" : "Blueberries", "parent":"Berries & Fruiting Bushes", "value":28, "image":"#i3" },
     { "name" : "Bush Cherries", "parent":"Berries & Fruiting Bushes", "value":2, "image":"#i4" },
